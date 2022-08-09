@@ -30,7 +30,7 @@ issuer VARCHAR(250),
 maturity_date DATE,
 coupon FLOAT, 
 type VARCHAR(250), 
-face_value INT, 
+facevalue INT, 
 status VARCHAR(250)
 );
 
